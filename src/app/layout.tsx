@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rishabh Singh - Full-Stack Builder & Founder",
+  title: "Rishabh Singh - Full-Stack Builder",
   description: "Full-stack builder crafting AI-powered applications, scalable systems, and innovative SaaS products. Proven track record shipping products with real users, deep technical expertise, and entrepreneurial execution.",
   keywords: "full-stack developer, software engineer, AI integration, SaaS, TypeScript, React, Next.js",
   authors: [{ name: "Rishabh Singh" }],

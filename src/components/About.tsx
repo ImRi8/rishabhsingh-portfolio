@@ -8,13 +8,13 @@ export default function About() {
           <div>
             <h3 className="text-2xl font-semibold text-purple-300 mb-4">Who I Am</h3>
             <p className="text-gray-300 mb-4 leading-relaxed">
-              I'm Rishabh Singh, a full-stack builder and founder from India obsessed with shipping products that solve real problems. I combine deep technical expertise spanning backend systems, frontend development, and AI/ML with a founder's mindset—focused on execution, user feedback, and market traction.
+              I'm Rishabh Singh, a full-stack builder from India obsessed with shipping products that solve real problems. I combine deep technical expertise spanning backend systems, frontend development, and AI/ML with an execution-focused mindset centered on user feedback and market traction.
             </p>
             <p className="text-gray-300 mb-4 leading-relaxed">
               My journey is defined by shipping—from shipping my first production app to deploying 28+ projects with real users. I've learned that great products come from ruthless execution, deep user understanding, and technical excellence.
             </p>
             <p className="text-gray-300 leading-relaxed">
-              When not coding, I'm building in public, exploring emerging tech, and collaborating with fellow founders to create ventures with real impact.
+              When not coding, I'm building in public, exploring emerging tech, and collaborating with other builders to create products with real impact.
             </p>
           </div>
 

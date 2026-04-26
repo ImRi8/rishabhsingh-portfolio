@@ -5,11 +5,11 @@ import Skills from '@/components/Skills';
 import Contact from '@/components/Contact';
 
 export const metadata = {
-  title: 'Rishabh Singh - Software Developer & YC Founder',
+  title: 'Rishabh Singh - Software Developer & Builder',
   description: 'Full-stack developer building innovative solutions. Showcasing AI-powered apps, web platforms, and backend systems.',
   openGraph: {
     title: 'Rishabh Singh - Software Developer',
-    description: 'Future YC founder building cutting-edge software products',
+    description: 'Builder creating cutting-edge software products',
     url: 'https://rishabhsingh.dev',
   },
 };

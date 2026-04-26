@@ -1,6 +1,6 @@
-# Rishabh Singh - Personal Portfolio & YC Pitch Platform
+# Rishabh Singh - Personal Portfolio
 
-A modern, responsive personal portfolio website built with Next.js, showcasing a full-stack developer's projects, skills, and experience for potential Y Combinator and investor engagement.
+A modern, responsive personal portfolio website built with Next.js, showcasing a full-stack developer's projects, skills, and experience.
 
 ## Features
 
@@ -184,4 +184,4 @@ Modify `tailwind.config.ts` to change:
 
 ---
 
-**Built for YC | Showcasing innovation, execution, and technical excellence 🚀**
+**Showcasing innovation, execution, and technical excellence.**

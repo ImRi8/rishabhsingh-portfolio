@@ -1,12 +1,6 @@
 {
   "name": "rishabhsingh-portfolio",
   "version": "1.0.0",
-  "env": {
-    "NEXT_PUBLIC_GITHUB_TOKEN": {
-      "description": "GitHub personal access token for fetching repositories",
-      "required": false
-    }
-  },
   "buildCommand": "npm run build",
   "framework": "nextjs",
   "public": true
