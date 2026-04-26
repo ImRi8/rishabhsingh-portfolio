@@ -1,6 +1,6 @@
 {
   "name": "rishabhsingh-portfolio",
-  "version": 1,
+  "version": 2,
   "buildCommand": "npm run build",
   "framework": "nextjs",
   "public": true
