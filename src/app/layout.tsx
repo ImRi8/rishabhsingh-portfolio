@@ -18,6 +18,10 @@ export const metadata: Metadata = {
   description: "Full-stack builder crafting AI-powered applications, scalable systems, and innovative SaaS products. Proven track record shipping products with real users, deep technical expertise, and entrepreneurial execution.",
   keywords: "full-stack developer, software engineer, AI integration, SaaS, TypeScript, React, Next.js",
   authors: [{ name: "Rishabh Singh" }],
+  icons: {
+    icon: "/favicon.svg",
+    apple: "/favicon.svg",
+  },
   openGraph: {
     title: "Rishabh Singh - Software Developer & Entrepreneur",
     description: "Building innovative solutions for real-world problems",
